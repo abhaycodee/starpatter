@@ -1,0 +1,2 @@
+# starpatter
+printing star pattern
